@@ -37,4 +37,11 @@
   },
   {
     "id": "dish-flan-vainilla",
-    "name": "Flan de Vainilla
+    "name": "Flan de Vainilla",
+    "description": "Flan clasico de vainilla con caramelo.",
+    "price": "$5",
+    "imageRelativePath": null,
+    "bundledDrawable": "menu_flan_vainilla",
+    "imageUrl": null
+  }
+]
