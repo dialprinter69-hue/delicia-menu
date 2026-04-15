@@ -26,22 +26,16 @@
     "bundledDrawable": "menu_churro_cheesecake",
     "imageUrl": null
   },
-  {
-    "id": "dish-flan-queso",
-    "name": "Flan de Queso",
-    "description": "Flan cremoso de queso banado en caramelo.",
-    "price": "$5",
-    "imageRelativePath": null,
-    "bundledDrawable": null,
-    "imageUrl": null
-  },
-  {
-    "id": "dish-flan-vainilla",
-    "name": "Flan de Vainilla",
-    "description": "Flan clasico de vainilla con caramelo.",
-    "price": "$5",
-    "imageRelativePath": null,
-    "bundledDrawable": null,
-    "imageUrl": null
-  }
+{
+  "id": "dish-flan-queso",
+  ...
+  "bundledDrawable": "menu_flan_queso",
+  "imageUrl": null
+},
+{
+  "id": "dish-flan-vainilla",
+  ...
+  "bundledDrawable": "menu_flan_vainilla",
+  "imageUrl": null
+}
 ]
