@@ -1,0 +1,47 @@
+[
+  {
+    "id": "dish-arroz-pernil-coditos",
+    "name": "Arroz con gandules, pernil y ensalada de coditos",
+    "description": "Incluye bebida (refresco). Delivery disponible según zona.",
+    "price": "$18",
+    "imageRelativePath": null,
+    "bundledDrawable": "promo_delicia_flyer",
+    "imageUrl": null
+  },
+  {
+    "id": "dish-tres-leches",
+    "name": "Tres leches",
+    "description": "Bizcocho empapado en tres leches, crema, caramelo, canela, fresa y cerezas.",
+    "price": "$5",
+    "imageRelativePath": null,
+    "bundledDrawable": "menu_tres_leches",
+    "imageUrl": null
+  },
+  {
+    "id": "dish-churro-cheesecake",
+    "name": "Churro Cheesecake",
+    "description": "Cheesecake cremoso entre capas estilo churro con canela y azucar, fresas picadas encima.",
+    "price": "$5",
+    "imageRelativePath": null,
+    "bundledDrawable": "menu_churro_cheesecake",
+    "imageUrl": null
+  },
+  {
+    "id": "dish-flan-queso",
+    "name": "Flan de Queso",
+    "description": "Flan cremoso de queso banado en caramelo.",
+    "price": "$5",
+    "imageRelativePath": null,
+    "bundledDrawable": null,
+    "imageUrl": null
+  },
+  {
+    "id": "dish-flan-vainilla",
+    "name": "Flan de Vainilla",
+    "description": "Flan clasico de vainilla con caramelo.",
+    "price": "$5",
+    "imageRelativePath": null,
+    "bundledDrawable": null,
+    "imageUrl": null
+  }
+]
