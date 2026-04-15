@@ -11,7 +11,7 @@
   {
     "id": "dish-tres-leches",
     "name": "Tres leches",
-    "description": "Bizcocho empapado en tres leches, crema, caramelo, canela, fresa y cerezas.",
+    "description": "Bizcocho empapado en tres leches, crema, caramelo, canela, fresa y .",
     "price": "$5",
     "imageRelativePath": null,
     "bundledDrawable": "menu_tres_leches",
@@ -20,7 +20,7 @@
   {
     "id": "dish-churro-cheesecake",
     "name": "Churro Cheesecake",
-    "description": "Cheesecake cremoso entre capas estilo churro con canela y azucar, fresas picadas encima.",
+    "description": "Cheesecake cremoso entre capas estilo churro con canela y azucar, .",
     "price": "$5",
     "imageRelativePath": null,
     "bundledDrawable": "menu_churro_cheesecake",
