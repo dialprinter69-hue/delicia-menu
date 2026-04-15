@@ -20,7 +20,7 @@
   {
     "id": "dish-churro-cheesecake",
     "name": "Churro Cheesecake",
-    "description": "Cheesecake cremoso entre capas estilo churro con canela y azucar, .",
+    "description": "Cheesecake cremoso capa estilo churro con canela y azucar, .",
     "price": "$5",
     "imageRelativePath": null,
     "bundledDrawable": "menu_churro_cheesecake",
