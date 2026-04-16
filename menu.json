@@ -4,20 +4,42 @@
     "name": "Arroz con Gandules, Pernil y Ensalada de Coditos",
     "description": "Incluye bebida (refresco). Delivery disponible según zona.",
     "price": "$18",
-    "imageRelativePath": null,
-    "bundledDrawable": "promo_delicia_flyer",
-    "imageUrl": null
+    "category": "Plato Principal",
+    "imageUrl": "https://customer-assets.emergentagent.com/job_spark-auto-notify/artifacts/499ibx4c_IMG-20260415-WA0002.jpg"
   },
   {
     "id": "dish-tres-leches",
     "name": "Tres Leches",
-    "description": "Bizcocho empapado en tres leches, crema, caramelo, canela, fresa y .",
+    "description": "Bizcocho empapado en tres leches, crema, caramelo, canela y fresa.",
     "price": "$5",
-    "imageRelativePath": null,
-    "bundledDrawable": "menu_tres_leches",
-    "imageUrl": null
+    "category": "Postres",
+    "imageUrl": "https://customer-assets.emergentagent.com/job_spark-auto-notify/artifacts/xg9d8gjv_IMG-20260415-WA0001.jpg"
   },
   {
+    "id": "dish-churro-cheesecake",
+    "name": "Churro Cheesecake",
+    "description": "Cheesecake cremoso estilo churro con canela y azúcar.",
+    "price": "$5",
+    "category": "Postres",
+    "imageUrl": "https://customer-assets.emergentagent.com/job_spark-auto-notify/artifacts/rmjp9kjs_IMG-20260415-WA0004.jpg"
+  },
+  {
+    "id": "dish-flan-queso",
+    "name": "Flan de Queso",
+    "description": "Flan cremoso de queso bañado en caramelo.",
+    "price": "$5",
+    "category": "Postres",
+    "imageUrl": "https://customer-assets.emergentagent.com/job_spark-auto-notify/artifacts/hwcbu9ui_IMG-20260415-WA0003.jpg"
+  },
+  {
+    "id": "dish-flan-vainilla",
+    "name": "Flan de Vainilla",
+    "description": "Flan clásico de vainilla con caramelo.",
+    "price": "$5",
+    "category": "Postres",
+    "imageUrl": "https://customer-assets.emergentagent.com/job_spark-auto-notify/artifacts/de4b9xjm_IMG-20260415-WA0005.jpg"
+  }
+]
     "id": "dish-churro-cheesecake",
     "name": "Churro Cheesecake",
     "description": "Cheesecake cremoso capa estilo churro con canela y azucar, .",
