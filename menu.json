@@ -1,10 +1,10 @@
 [
   {
     "id": "dish-papas-supreme",
-    "name": "Papas Supreme",
+    "name": "Papas Supreme*",
     "description": "Papas cargadas con queso derretido, carne sazonada, crema, tomate y cebollín. Incluye bebida (refresco). Delivery según zona.",
     "price": "$18",
-    "imageUrl": "https://raw.githubusercontent.com/dialprinter69-hue/delicia-menu/refs/heads/main/images/papas%20supreme.png",
+    "imageUrl": "https://raw.githubusercontent.com/dialprinter69-hue/delicia-menu/refs/heads/main/images/supreme.png",
     "imageRelativePath": null,
     "bundledDrawable": "promo_delicia_flyer"
   },
