@@ -1,6 +1,7 @@
 [
   {
     "id": "dish-pechuga-rellena",
+    "category": "main",
     "name": "Pechuga Rellena con Arroz Griego",
     "description": "Pechuga de pollo rellena con queso cheddar, envuelta en bacon y servida con salsa cremosa.",
     "price": "$16",
@@ -9,12 +10,71 @@
     "bundledDrawable": "plato_principal"
   },
   {
-    "id": "dish-tres-leches",
-    "name": "Tres leches",
+    "id": "dessert-tres-leches",
+    "category": "dessert",
+    "name": "Tres Leches",
     "description": "Bizcocho empapado en tres leches, crema, caramelo, canela, fresa y cerezas.",
-    "price": "$5",
     "imageUrl": "https://raw.githubusercontent.com/dialprinter69-hue/delicia-menu/refs/heads/main/images/menu_tres_leches.png",
     "imageRelativePath": null,
-    "bundledDrawable": "menu_tres_leches"
+    "bundledDrawable": "menu_tres_leches",
+    "sizes": [
+      {
+        "id": "individual",
+        "label": "Porción individual",
+        "desc": "Para 1 persona",
+        "price": 5
+      },
+      {
+        "id": "bandeja",
+        "label": "Bandeja",
+        "desc": "Para compartir (8–10 porciones)",
+        "price": 25,
+        "badge": "Familiar"
+      }
+    ]
+  },
+  {
+    "id": "dessert-flan-queso",
+    "category": "dessert",
+    "name": "Flan de Queso",
+    "description": "Flan cremoso de queso con caramelo casero, textura suave y sabor intenso.",
+    "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&w=800&q=80",
+    "sizes": [
+      {
+        "id": "individual",
+        "label": "Porción individual",
+        "desc": "Para 1 persona",
+        "price": 5
+      },
+      {
+        "id": "bandeja",
+        "label": "Bandeja",
+        "desc": "Para compartir (8–10 porciones)",
+        "price": 25,
+        "badge": "Familiar"
+      }
+    ]
+  },
+  {
+    "id": "dessert-flan-vainilla",
+    "category": "dessert",
+    "name": "Flan de Vainilla",
+    "description": "Flan clásico de vainilla con caramelo dorado, suave y sedoso.",
+    "imageUrl": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=800&q=80",
+    "sizes": [
+      {
+        "id": "individual",
+        "label": "Porción individual",
+        "desc": "Para 1 persona",
+        "price": 5
+      },
+      {
+        "id": "bandeja",
+        "label": "Bandeja",
+        "desc": "Para compartir (8–10 porciones)",
+        "price": 25,
+        "badge": "Familiar"
+      }
+    ]
   }
 ]
