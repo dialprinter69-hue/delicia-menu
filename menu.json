@@ -1,7 +1,7 @@
 [
   {
     "id": "dish-pechuga-rellena",
-    "name": "Pechuga Rellena",
+    "name": "Pechuga Rellena con Arroz griego",
     "description": "Pechuga de pollo rellena con queso cheddar, envuelta en bacon y servida con salsa cremosa.",
     "price": "$16",
     "imageUrl": "https://raw.githubusercontent.com/dialprinter69-hue/delicia-menu/main/images/plato_principal.png",
