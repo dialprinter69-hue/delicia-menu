@@ -1,12 +1,12 @@
 [
   {
-    "id": "dish-papas-supreme",
-    "name": "Papas Supreme*",
-    "description": "Papas cargadas con queso derretido, carne sazonada, crema, tomate y cebollín. Incluye bebida (refresco). Delivery según zona.",
-    "price": "$15",
-    "imageUrl": "https://raw.githubusercontent.com/dialprinter69-hue/delicia-menu/refs/heads/main/images/Supreme.png",
+    "id": "dish-pechuga-rellena",
+    "name": "Pechuga Rellena",
+    "description": "Pechuga de pollo rellena con queso cheddar, envuelta en bacon y servida con salsa cremosa.",
+    "price": "$16",
+    "imageUrl": "https://raw.githubusercontent.com/dialprinter69-hue/delicia-menu/main/images/plato_principal.png",
     "imageRelativePath": null,
-    "bundledDrawable": "promo_delicia_flyer"
+    "bundledDrawable": "plato_principal"
   },
   {
     "id": "dish-tres-leches",
