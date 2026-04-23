@@ -14,7 +14,7 @@
     "category": "dessert",
     "name": "Tres Leches",
     "description": "Bizcocho empapado en tres leches, crema, caramelo, canela, fresa y cerezas.",
-    "imageUrl": "https://raw.githubusercontent.com/dialprinter69-hue/delicia-menu/refs/heads/main/images/menu_tres_leches.png",
+    "imageUrl": "https://raw.githubusercontent.com/dialprinter69-hue/delicia-menu/main/images/menu_tres_leches.png",
     "imageRelativePath": null,
     "bundledDrawable": "menu_tres_leches",
     "sizes": [
@@ -38,7 +38,7 @@
     "category": "dessert",
     "name": "Flan de Queso",
     "description": "Flan cremoso de queso con caramelo casero, textura suave y sabor intenso.",
-    "imageUrl": null,
+    "imageUrl": "https://raw.githubusercontent.com/dialprinter69-hue/delicia-menu/main/images/menu_flan_queso.png",
     "imageRelativePath": null,
     "bundledDrawable": "menu_flan_queso",
     "sizes": [
@@ -62,9 +62,33 @@
     "category": "dessert",
     "name": "Flan de Vainilla",
     "description": "Flan clásico de vainilla con caramelo dorado, suave y sedoso.",
-    "imageUrl": null,
+    "imageUrl": "https://raw.githubusercontent.com/dialprinter69-hue/delicia-menu/main/images/menu_flan_vainilla.png",
     "imageRelativePath": null,
     "bundledDrawable": "menu_flan_vainilla",
+    "sizes": [
+      {
+        "id": "individual",
+        "label": "Porción individual",
+        "desc": "Para 1 persona",
+        "price": 5
+      },
+      {
+        "id": "bandeja",
+        "label": "Bandeja",
+        "desc": "Para compartir (8–10 porciones)",
+        "price": 25,
+        "badge": "Familiar"
+      }
+    ]
+  },
+  {
+    "id": "dessert-churro-cheesecake",
+    "category": "dessert",
+    "name": "Churro Cheesecake",
+    "description": "Cheesecake cremoso envuelto en masa de churro con canela y azúcar dorada.",
+    "imageUrl": "https://raw.githubusercontent.com/dialprinter69-hue/delicia-menu/main/images/menu_churro_cheesecake.png",
+    "imageRelativePath": null,
+    "bundledDrawable": "menu_churro_cheesecake",
     "sizes": [
       {
         "id": "individual",
